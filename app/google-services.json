@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223486224004",
+    "firebase_url": "https://what-s-final-clone-default-rtdb.firebaseio.com",
+    "project_id": "what-s-final-clone",
+    "storage_bucket": "what-s-final-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223486224004:android:079d46e9dbcddaa0c284d1",
+        "android_client_info": {
+          "package_name": "com.opproject.whatsfinalclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223486224004-0o35p654t5q2at06fb3daofuvo23iv6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9VT4WZWXZW2rtoLadStAt-PAj0oilKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223486224004-0o35p654t5q2at06fb3daofuvo23iv6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

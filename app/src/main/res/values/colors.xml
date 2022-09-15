@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">@color/black</color>
+<!--    toolbar -->
+    <color name="purple_500">@color/black</color>
+<!--    main to change in the file all colors like his color -->
+    <color name="purple_700">#065E54</color>
+<!--    this is indicator color-->
+    <color name="teal_200">#FFFFFF</color>
+    <color name="teal_700">@color/teal_200</color>
+
+    <color name="black">@color/purple_700</color>
+<!--    background -->
+    <color name="white">@color/purple_700</color>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChatApp Clone</string>
+    <string name="todo">TODO</string>
+    <string name="whats_app_clone_n_by_om">ChatAPP clone\n By Om</string>
+    <string name="textview" />
+    <string name="enter_message">Enter message</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">setting</string>
+    <string name="logout">logout</string>
+    <string name="search">search</string>
+    <string name="groupchat">groupChat</string>
+    <string name="user_name">user Name</string>
+</resources>
